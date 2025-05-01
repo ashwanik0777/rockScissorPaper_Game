@@ -17,8 +17,7 @@ Welcome to the **Rock Scissor Paper Game** repository! This project is an intera
 
 ## 🚀 Live Demo
 
-Check out the live version of the app here: **[Play Now](#)** _(Add your live link here)_
-
+Check out the live version of the app here: **[Play Now](https://ashwanik0777.github.io/rockScissorPaper_Game/)** 
 
 ---
 
