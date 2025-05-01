@@ -108,4 +108,3 @@ For any inquiries or feedback, feel free to reach out:
 - Inspired by the timeless classic game.
 - Thanks to all contributors and users who support this project.
 
----
